@@ -12,7 +12,6 @@ const Products = () => {
       .then((data) => setProducts(data));
   }, []);
   const handleClick = (product) =>{
-    console.log(product);
     const newcart = [...cart, product]
     setCart(newcart);
   }
