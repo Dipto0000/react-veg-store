@@ -11,8 +11,8 @@ const Products = () => {
       .then((data) => data.json())
       .then((data) => setProducts(data));
   }, []);
-  const handleClick = () =>{
-    setCount(count+1);
+  const handleClick = (product) =>{
+    console.log(product);
   }
   return (
     <div>
@@ -20,7 +20,12 @@ const Products = () => {
       <div className="product-container">
         <div className="info-container">
           {products.map((product) => (
-            <SingleProduct product={product} key={product.id}></SingleProduct>
+            <SingleProduct 
+            product={product} 
+            key={product.id}
+            handleClick ={handleClick}
+            >
+            </SingleProduct>
           ))}
         </div>
         <div className="cart-container">
