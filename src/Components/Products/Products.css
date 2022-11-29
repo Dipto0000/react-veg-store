@@ -1,0 +1,18 @@
+.info-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.product-container {
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+}
+.cart-container {
+  height: 500px;
+  width: 200px;
+  background-color: aquamarine;
+  position: sticky;
+  top: 0;
+}

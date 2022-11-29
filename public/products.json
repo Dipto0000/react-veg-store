@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/C7pPBm5/bringal.webp",
+    "name": "Bringal",
+    "price": 80
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/ry9R000/broccoli.webp",
+    "name": "broccoli",
+    "price": 140
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/7JdVf1k/cabbage.webp",
+    "name": "cabbage",
+    "price": 125
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/JpNsQrV/carrots.webp",
+    "name": "carrots",
+    "price": 53
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/qDcx7K2/cucumber.webp",
+    "name": "cucumber",
+    "price": 70
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/CWQJv2M/green-chili.webp",
+    "name": "green-chili",
+    "price": 120
+  },
+  {
+    "id": 7,
+    "img": "https://i.ibb.co/0Q0C8WY/lemon.webp",
+    "name": "lemon",
+    "price": 20
+  },
+  {
+    "id": 8,
+    "img": "https://i.ibb.co/61PjsSQ/onion.webp",
+    "name": "onion",
+    "price": 34
+  },
+  {
+    "id": 9,
+    "img": "https://i.ibb.co/WVpzvdb/peas.webp",
+    "name": "peas",
+    "price": 220
+  },
+  {
+    "id": 10,
+    "img": "https://i.ibb.co/1MjDn4L/potato.webp",
+    "name": "potato",
+    "price": 16
+  },
+  {
+    "id": 11,
+    "img": "https://i.ibb.co/kXzQpNS/red-chili.webp",
+    "name": "red-chili",
+    "price": 25
+  },
+  {
+    "id": 12,
+    "img": "https://i.ibb.co/DQBJjTj/tomatoes.webp",
+    "name": "tomatoes",
+    "price": 90
+  }
+]
